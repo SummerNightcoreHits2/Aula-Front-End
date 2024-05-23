@@ -17,12 +17,11 @@ body {
     border-radius: 3px;
     margin: 30px auto;
     display: block;
-    
 }
 
 img {
     width: 300px;
-    height: 270px;
+    height: 255px;
     /*border-style: solid;
     border-width: 5px;
     border-color: #000000; */
@@ -79,23 +78,26 @@ li > a:hover{
     background-color: #817464;
     font-size: 21px;
     font-weight: bold;
-    line-height: 35px;
+    line-height: 50px;
     margin-top: 0;
     border: 2px solid #3a3b27;
 }
 
 .menu > li{
     display: inline-block;
-    margin: 0 0 0 15%;
+    margin: 0 0 0 11%;
 }
 
 .menu a{
     text-decoration: none;
     color: #3b3126;
+    transition: all 300ms;
 }
 
 .menu a:hover{
+    font-size: 1.5rem;
     color: rgb(43, 33, 24);
+    transition: all 500ms;
 }
 
 footer {
