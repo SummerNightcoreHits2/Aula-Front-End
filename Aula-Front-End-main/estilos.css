@@ -8,8 +8,7 @@ body {
 }
 
 .Logo {
-    width: 300px;
-    height: 375px;
+    width: 17%;
     /*border-style: solid;
     border-width: 5px;
     border-color: #1f12d8; */
@@ -21,7 +20,6 @@ body {
 
 img {
     width: 300px;
-    height: 255px;
     /*border-style: solid;
     border-width: 5px;
     border-color: #000000; */
