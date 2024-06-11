@@ -13,7 +13,8 @@ body {
     border-width: 5px;
     border-color: #1f12d8; */
     border: 5px solid #201b13;
-    border-radius: 3px;
+    border-image: linear-gradient(#0819b8, #020218) 30;
+    border-radius: 0px;
     margin: 40px auto;
     display: block;
     box-shadow: none;
