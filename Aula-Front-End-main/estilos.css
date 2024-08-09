@@ -49,7 +49,7 @@ img {
     border-color: #000000; */
     border: 5px solid #dfddda;
     border-radius: 10px;
-    box-shadow: -25px 20px 2px #181403;
+    box-shadow: -25px 20px 5px #181403;
 }
 
 h1 {
@@ -72,13 +72,14 @@ iframe {
     display: block;
     border-radius: 15px;
     border-color: #3b3b2b;
+    border-width: 5px;
 }
 
 p {
     color:rgb(231, 216, 204);
     text-align: justify;
-    background-color: #645e57;
-    border: 3px solid #352d28;
+    background-color: #58534e;
+    border: 3px solid #2b2420;
     /* margin-top: 50px;
     margin-left: 30px;
     margin-right: 20px;
@@ -124,8 +125,8 @@ li > a:hover{
 footer {
     text-align: center;
     width: 100%;
-    background-color: #47472f;
-    border-top: 5px solid #3f3f2e;
+    background-color: #63594e;
+    border-top: 5px solid #352d28;
     margin: 5px 0 0;
     padding: 10px;
 }
