@@ -42,6 +42,10 @@ body {
     box-shadow: none;
 }
 
+.Imagem {
+    float: left;
+}
+
 img {
     width: 300px;
     /*border-style: solid;
@@ -49,7 +53,7 @@ img {
     border-color: #000000; */
     border: 5px solid #dfddda;
     border-radius: 10px;
-    box-shadow: -25px 20px 5px #181403;
+    box-shadow: -25px 20px 5px #0f0d02;
 }
 
 h1 {
@@ -86,6 +90,10 @@ p {
     margin-bottom: 40px; */
     margin: 70px;
     padding: 25px;
+}
+
+.Texto {
+    margin-left: 25%;
 }
 
 li > a{
